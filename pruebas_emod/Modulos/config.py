@@ -1,0 +1,1 @@
+baseURL = 'http://emod-frontend-qa.internal.tidnode.cl/'
